@@ -1,0 +1,17 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ä÷Ü¸1
+g	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Å÷Ü¸1
+Y
+java:S4973/"<Strings and Boxed types should be compared using "equals()".(³ÿô©8Ç÷Ü¸1
+]	java:S125"<This block of commented-out lines of code should be removed.(›š‰¥şÿÿÿÿ8÷÷Ü¸1
+F	java:S106"+Replace this use of System.out by a logger.(”»ì.8ú÷Ü¸1
+L	java:S106"+Replace this use of System.out by a logger.(ÕŒ‡Œÿÿÿÿÿ8û÷Ü¸1
+G	java:S106"+Replace this use of System.out by a logger.(¤äÕµ8 ‘÷Ü¸1
+L	java:S106 "+Replace this use of System.out by a logger.(øîÉ½ÿÿÿÿÿ8¢‘÷Ü¸1
+X	java:S125%"<This block of commented-out lines of code should be removed.(Ñï•8¤î˜İ¸1
+\
+java:S6213*":Rename this variable to not match a restricted identifier.(Õşü¿øÿÿÿÿ8Ö‘÷Ü¸1
+€
+java:S1128"^Remove this unused import 'com.amazonaws.services.simpleemail.AmazonSimpleEmailServiceClient'.(¡ÔÜøÿÿÿÿ8ı¦¿İ¸1
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8ı¦¿İ¸1

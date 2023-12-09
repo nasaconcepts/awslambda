@@ -1,0 +1,34 @@
+
+g
+java:S11920"JDefine a constant instead of duplicating this literal "OTP is : " 5 times.(àáŠû8°Ç„¸1
+}
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "otp".(¶ŞÅûúÿÿÿÿ8‘°Ç„¸1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(” †8Ì°Ç„¸1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(” †8Ü°Ç„¸1
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8ä°Ç„¸1
+G	java:S106%"+Replace this use of System.out by a logger.(”­8ê°Ç„¸1
+G	java:S1060"+Replace this use of System.out by a logger.(àáŠû8ñ°Ç„¸1
+G	java:S1061"+Replace this use of System.out by a logger.(àáŠû8ò°Ç„¸1
+G	java:S1062"+Replace this use of System.out by a logger.(àáŠû8ò°Ç„¸1
+G	java:S1063"+Replace this use of System.out by a logger.(àáŠû8ó°Ç„¸1
+G	java:S1064"+Replace this use of System.out by a logger.(àáŠû8ó°Ç„¸1
+G	java:S1066"+Replace this use of System.out by a logger.(æô½×8ó°Ç„¸1
+G	java:S1067"+Replace this use of System.out by a logger.(‚ ç 8ô°Ç„¸1
+b
+java:S1854A"@Remove this useless assignment to local variable "objectMapper".(¡ôó‰ùÿÿÿÿ8õ°Ç„¸1
+S
+java:S1481A"1Remove this unused "objectMapper" local variable.(¡ôó‰ùÿÿÿÿ8±Ç„¸1
+L	java:S106Q"+Replace this use of System.out by a logger.(Æ¬÷İøÿÿÿÿ8“±Ç„¸1
+]
+java:S1854_";Remove this useless assignment to local variable "request".(©ÊêÎùÿÿÿÿ8”±Ç„¸1
+b
+java:S1854^"@Remove this useless assignment to local variable "objectMapper".(¡ôó‰ùÿÿÿÿ8”±Ç„¸1
+S
+java:S1481^"1Remove this unused "objectMapper" local variable.(¡ôó‰ùÿÿÿÿ8•±Ç„¸1
+N
+java:S1481_",Remove this unused "request" local variable.(©ÊêÎùÿÿÿÿ8•±Ç„¸1
+L	java:S106n"+Replace this use of System.out by a logger.(Æ¬÷İøÿÿÿÿ8˜±Ç„¸1
+p
+java:S1128"SRemove this unused import 'com.amazonaws.services.dynamodbv2.AmazonDynamoDBClient'.(¿Û„Œ8Ö’È„¸1

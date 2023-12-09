@@ -1,0 +1,6 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(’Þ–Í
+L
+java:S1128	"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ

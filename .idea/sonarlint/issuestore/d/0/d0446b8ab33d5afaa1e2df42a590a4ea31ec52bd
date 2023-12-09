@@ -1,0 +1,10 @@
+
+r
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(Ä‰­ëúÿÿÿÿ8›ı¥ÍÀ1
+L
+java:S1444"*Make this "public static data" field final(Ä‰­ëúÿÿÿÿ8ı¥ÍÀ1
+?
+java:S2386"Make this member "protected".(Ä‰­ëúÿÿÿÿ8¶ı¥ÍÀ1
+L	java:S106"+Replace this use of System.out by a logger.(¨”¿ñüÿÿÿÿ8Çı¥ÍÀ1
+L	java:S106"+Replace this use of System.out by a logger.(±–¹•úÿÿÿÿ8ÕÇ¦ÍÀ1
+F	java:S106"+Replace this use of System.out by a logger.(Ù³ŠC8÷¶§ÍÀ1

@@ -1,0 +1,9 @@
+
+U
+java:S6213&":Rename this variable to not match a restricted identifier.(æ­…øÿÿÿÿ
+a
+java:S1128"KRemove this unused import 'com.amazonaws.auth.AWSCredentialsProviderChain'.(éİ¨ş
+i
+java:S1128"NRemove this unused import 'com.amazonaws.services.s3.internal.InputSubstream'.(Ã¸Çƒøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ
